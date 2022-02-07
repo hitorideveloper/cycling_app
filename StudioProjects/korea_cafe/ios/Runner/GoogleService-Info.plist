@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>913381052675-8a1ie925i81ep98c72pke2tvabhui528.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.913381052675-8a1ie925i81ep98c72pke2tvabhui528</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_pCAvBagFiw1nXhCETvi69mFlfnMCmr0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>913381052675</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hitori.koreaCafe</string>
+	<key>PROJECT_ID</key>
+	<string>koreancafe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>koreancafe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:913381052675:ios:23a2774f01b5c834e65936</string>
+</dict>
+</plist>
